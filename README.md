@@ -53,8 +53,10 @@
 
 ---
 
-# 🐍 Contribution Snake
-![Snake animation](https://github.com/Ved-nt/Ved-nt/blob/output/github-contribution-grid-snake.svg)
+# 🌟 Badges
+![Profile Views](https://komarev.com/ghpvc/?username=Ved-nt&label=Profile%20Views&color=ff69b4&style=for-the-badge)
+![GitHub Followers](https://img.shields.io/github/followers/Ved-nt?label=Followers&style=for-the-badge)
+![GitHub Stars](https://img.shields.io/github/stars/Ved-nt?label=Stars&style=for-the-badge)
 
 ---
 
