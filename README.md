@@ -43,13 +43,13 @@
 ---
 
 # 📊 GitHub Stats
-![Vedant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ved-nt&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ved-nt&layout=compact&theme=radical)
+![Vedant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ved-nt&show_icons=true&theme=radical&cache_seconds=3600)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ved-nt&layout=compact&theme=radical&cache_seconds=3600)
 
 ---
 
 # 📈 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Ved-nt&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ved-nt&theme=radical&hide_border=false&cache_seconds=3600)](https://git.io/streak-stats)
 
 ---
 
