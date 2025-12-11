@@ -7,21 +7,8 @@
 - 🎓 5th Semester **B.Tech Student**
 - 🌐 **Web Developer** with experience in React, Node.js, Express, and PostgreSQL
 - 📚 I love learning new technologies and building real-world projects
-- 🧘 Currently working on **Meditation & Journal Tracker (AWS deployment)**
 - ✨ Fun Fact: I enjoy reading books and summarizing key insights!
 
-class Ashish {
-  constructor() {
-    this.name = "Ashish Jha";
-    this.pronouns = "He/Him";
-    this.dateOfBirth = "2005-08-25";
-    this.languagesKnown = ["English", "Hindi"];
-    this.programmingLanguages = ["TypeScript", "Go"];
-    this.hobbies = ["Cricket", "Watching anime", "Reading manga"];
-  }
-}
-
----
 
 # 🏆 Achievements
 - Selected among **Top 10 Sprinters** of **CodeSprint 2.0** 🚀
@@ -49,15 +36,9 @@ class Ashish {
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
-# 📊 GitHub Stats
-![Vedant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ved-nt&show_icons=true&theme=radical&cache_seconds=3600)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ved-nt&layout=compact&theme=radical&cache_seconds=3600)
-
----
 
 # 📈 GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ved-nt&theme=radical&hide_border=false&cache_seconds=3600)](https://git.io/streak-stats)
