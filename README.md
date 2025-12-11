@@ -3,45 +3,47 @@
 
 ---
 
-# 👨‍💻 About Me
-- 🎓 6th Semester **B.Tech in Computer Science & Engineering** at KIIT University  
-- 🌐 **Full-Stack Developer** skilled in React, Node.js, Express, and PostgreSQL  
-- 📚 Passionate about **algorithms, AI/ML, and system-level problem solving**  
-- 🧘 Currently building a **Meditation & Journal Tracker (AWS deployment)**  
-- ✨ Fun Fact: I love reading books and distilling them into actionable insights  
+# 👨‍💻 About Me  
+- 🎓 **6th Semester B.Tech (CSE)** @ KIIT University  
+- 🌐 **Full-Stack Developer** | React • Node.js • Express • PostgreSQL  
+- 🤖 Interested in **AI/ML, System Design, Networking, and Algorithms**  
+- ☁️ Currently deploying my **Meditation & Journal Tracker** on AWS  
+- ✨ I love reading books & turning insights into actionable learning  
+- 🚀 Always building, experimenting, and leveling up my skills  
 
 ---
 
-# 💻 Code About Me
+# 💻 Code About Me  
 ```js
 class Vedant {
   constructor() {
     this.name = "Vedant Sharma";
     this.pronouns = "He/Him";
-    this.dateOfBirth = "2003-05-10"; // update if needed
-    this.education = "B.Tech CSE, KIIT University (6th Semester)";
-    this.languagesKnown = ["English", "Hindi"];
-    this.programmingLanguages = ["Java", "JavaScript", "TypeScript", "Python", "C", "SQL"];
-    this.skills = ["Web Development", "Algorithms", "Networking", "System Troubleshooting"];
-    this.interests = ["AI/ML", "Competitive Coding", "Hackathons", "Computer Vision"];
-    this.hobbies = ["Reading books", "Building projects", "Gaming"];
+    this.DOB = "2003-05-10";
+    this.education = "B.Tech CSE @ KIIT University (6th Semester)";
+    this.languages = ["English", "Hindi"];
+    this.programming = ["Java", "JavaScript", "TypeScript", "Python", "C", "SQL"];
+    this.skills = [
+      "Full-Stack Web Development",
+      "Algorithms & Data Structures",
+      "Networking",
+      "System Troubleshooting",
+      "AI/ML Fundamentals"
+    ];
+    this.interests = ["Competitive Coding", "AI/ML", "Computer Vision", "Hackathons"];
+    this.hobbies = ["Reading Books", "Building Projects", "Gaming"];
   }
 
   introduce() {
-    return `Hi 👋 I'm ${this.name}, a ${this.education} student passionate about ${this.interests[0]} and ${this.interests[1]}.`;
+    return `Hi 👋 I'm ${this.name}, a passionate developer exploring ${this.interests[1]} and ${this.interests[2]}.`;
   }
 
-  listSkills() {
-    return `My key skills are: ${this.skills.join(", ")}`;
-  }
-
-  randomHobby() {
-    return `One of my hobbies is: ${this.hobbies[Math.floor(Math.random() * this.hobbies.length)]}`;
+  getSkills() {
+    return `Skills: ${this.skills.join(", ")}`;
   }
 }
 
 const me = new Vedant();
 console.log(me.introduce());
-console.log(me.listSkills());
-console.log(me.randomHobby());
+console.log(me.getSkills());
 
