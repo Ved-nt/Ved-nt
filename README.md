@@ -10,6 +10,17 @@
 - 🧘 Currently working on **Meditation & Journal Tracker (AWS deployment)**
 - ✨ Fun Fact: I enjoy reading books and summarizing key insights!
 
+class Ashish {
+  constructor() {
+    this.name = "Ashish Jha";
+    this.pronouns = "He/Him";
+    this.dateOfBirth = "2005-08-25";
+    this.languagesKnown = ["English", "Hindi"];
+    this.programmingLanguages = ["TypeScript", "Go"];
+    this.hobbies = ["Cricket", "Watching anime", "Reading manga"];
+  }
+}
+
 ---
 
 # 🏆 Achievements
