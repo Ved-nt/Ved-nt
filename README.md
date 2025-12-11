@@ -1,37 +1,27 @@
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F75C7E&width=600&lines=Hi+%F0%9F%91%8B+I'm+Vedant!;Web+Developer+%7C+B.Tech+Student;Learning+React%2C+Node.js%2C+and+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F75C7E&width=600&lines=Hi+%F0%9F%91%8B+I'm+Vedant!;Full-Stack+Web+Developer;B.Tech+Computer+Science+Student;Exploring+React%2C+Node.js%2C+and+AI)](https://git.io/typing-svg)
 
 ---
 
 # 👨‍💻 About Me
-- 🎓 5th Semester **B.Tech Student**
-- 🌐 **Web Developer** with experience in React, Node.js, Express, and PostgreSQL
-- 📚 I love learning new technologies and building real-world projects
-- 🧘 Currently working on **Meditation & Journal Tracker (AWS deployment)**
-- ✨ Fun Fact: I enjoy reading books and summarizing key insights!
-
-class Ashish {
-  constructor() {
-    this.name = "Ashish Jha";
-    this.pronouns = "He/Him";
-    this.dateOfBirth = "2005-08-25";
-    this.languagesKnown = ["English", "Hindi"];
-    this.programmingLanguages = ["TypeScript", "Go"];
-    this.hobbies = ["Cricket", "Watching anime", "Reading manga"];
-  }
-}
+- 🎓 6th Semester **B.Tech in Computer Science & Engineering** at KIIT University  
+- 🌐 **Full-Stack Developer** skilled in React, Node.js, Express, and PostgreSQL  
+- 📚 Passionate about **algorithms, AI/ML, and system-level problem solving**  
+- 🧘 Currently building a **Meditation & Journal Tracker (AWS deployment)**  
+- ✨ Fun Fact: I love reading books and distilling them into actionable insights  
 
 ---
 
 # 🏆 Achievements
-- Selected among **Top 10 Sprinters** of **CodeSprint 2.0** 🚀
-- Created **Bhagavad Gita API Project** with dynamic insights
-- Completed **50+ Coding Challenges** in Java, DSA & problem-solving
-- Built **multiple full-stack apps** with CRUD operations & RESTful APIs
+- 🚀 Ranked among **Top 10 Sprinters** in **CodeSprint 2.0**  
+- 📖 Developed **Bhagavad Gita API** with dynamic insights & RESTful endpoints  
+- 💡 Solved **50+ coding challenges** in Java, DSA, and problem-solving  
+- 🛠️ Built **multiple production-ready full-stack apps** with CRUD operations & APIs  
 
 ---
 
 # 🛠️ Skills & Technologies
+
 ### **Frontend**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -74,4 +64,5 @@ class Ashish {
 # 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedant-sharma-919a172a6/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ve_dant05/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vedant-portfolio.vercel.app/)
 
