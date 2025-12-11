@@ -2,18 +2,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1200&color=F75C7E&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Vedant+Sharma!;Web+Developer+%7C+Full-Stack+Engineer;B.Tech+Student+%7C+AI+%26+DSA+Enthusiast;Building+Projects+That+Solve+Real+Problems)](https://git.io/typing-svg)
 
 ---
-
-<div align="center">
-
-### 🚀 Passionate Full-Stack Developer • Tech Explorer • Problem Solver  
-Crafting real-world apps using **React, Node.js, PostgreSQL, AWS & AI**  
-
-</div>
-
 ---
 
 # 👨‍💻 About Me
-- 🎓 **5th Semester B.Tech (CSE)**  
+- 🎓 **6th Semester B.Tech (CSE)**  
 - 💻 Full-Stack Developer with hands-on experience in **React, Node.js, Express, PostgreSQL**  
 - 🧠 Passionate about **AI/ML, DSA, Web Systems & Scalable App Development**  
 - 📘 I love reading books & turning them into **actionable insights**  
@@ -24,7 +16,6 @@ Crafting real-world apps using **React, Node.js, PostgreSQL, AWS & AI**
 
 # 🏆 Achievements & Highlights
 - 🚀 **Top 10 Sprinters – CodeSprint 2.0**  
-- 📘 Built **Bhagavad Gita Insight Generator** with APIs & smart content  
 - 💡 Completed **50+ DSA Challenges** in Java + problem-solving  
 - 🔧 Built multiple **full-stack projects** with CRUD, REST APIs & auth  
 - 🤝 Improving in **team projects, system design & interviews**
@@ -99,9 +90,4 @@ Crafting real-world apps using **React, Node.js, PostgreSQL, AWS & AI**
 
 ---
 
-<div align="center">
-
-### 🌈 *“Keep building. Keep learning. Keep improving.”* 🚀  
-
-</div>
 
