@@ -62,7 +62,7 @@
 ### 🔥 Streaks  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ved-nt&theme=merko&hide_border=false)](https://git.io/streak-stats)
 
-![Vedant's GitHub Stats](https://github-readme-stats-git-master-vedant.vercel.app/api?username=Ved-nt&show_icons=true&theme=merko)
+![Vedant's GitHub Stats](https://github-readme-stats-git-master-Ved-nt.vercel.app/api?username=Ved-nt&show_icons=true&theme=merko)
 
 ![Top Langs](https://github-readme-stats-git-master-vedant.vercel.app/api/top-langs/?username=Ved-nt&layout=compact&theme=merko)
 
