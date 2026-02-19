@@ -1,7 +1,5 @@
-<!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1200&color=F75C7E&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Vedant+Sharma!;Web+Developer+%7C+Full-Stack+Engineer;B.Tech+Student+%7C+AI+%26+DSA+Enthusiast;Building+Projects+That+Solve+Real+Problems)](https://git.io/typing-svg)
 
----
 ---
 
 # 👨‍💻 About Me
@@ -87,7 +85,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedant-sharma-919a172a6/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ve_dant05/)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ved-nt)
-
----
-
-
