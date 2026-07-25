@@ -3,7 +3,7 @@
 ---
 
 # 👨‍💻 About Me
-- 🎓 **6th Semester B.Tech (CSE)**  
+- 🎓 **7th Semester B.Tech (CSE)**  
 - 💻 Full-Stack Developer with hands-on experience in **React, Node.js, Express, PostgreSQL**  
 - 🧠 Passionate about **AI/ML, DSA, Web Systems & Scalable Web Development**  
 - 📘 I love reading books & turning them into **actionable insights**  
